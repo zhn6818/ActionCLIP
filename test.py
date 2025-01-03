@@ -60,17 +60,17 @@ def validate(epoch, val_loader, classes, device, model, fusion_model, config, nu
             similarity = similarity.view(b, num_text_aug, -1).softmax(dim=-1)
             similarity = similarity.mean(dim=1, keepdim=False)
             values_1, indices_1 = similarity.topk(1, dim=-1)
-            values_5, indices_5 = similarity.topk(5, dim=-1)
+            # values_5, indices_5 = similarity.topk(5, dim=-1)
             num += b
             for i in range(b):
                 if indices_1[i] == class_id[i]:
                     corr_1 += 1
-                if class_id[i] in indices_5[i]:
-                    corr_5 += 1
+                # if class_id[i] in indices_5[i]:
+                #     corr_5 += 1
     top1 = float(corr_1) / num * 100
     top5 = float(corr_5) / num * 100
     wandb.log({"top1": top1})
-    wandb.log({"top5": top5})
+    # wandb.log({"top5": top5})
     print('Epoch: [{}/{}]: Top1: {}, Top5: {}'.format(epoch, config.solver.epochs, top1, top5))
     return top1
 

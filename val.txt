@@ -1,0 +1,247 @@
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2022-09-06-11-44-46 截取视频 78 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50009_intrusion2021-09-11-07-17-32 截取视频 125 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2024-01-10-17-14-29 截取视频 84 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50045_intrusion2020-07-16-15-38-42 截取视频 104 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50018_intrusion2022-08-08-09-00-42 截取视频 126 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-07-18-06-22-04小雾霾 截取视频 108 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50003_intrusion2024-06-12-10-36-02 截取视频 108 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50034_parking2020-11-09-10-01-00 截取视频 99 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_inclusion-non2024-03-29-16-14-21 截取视频 94 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50023_intrusion2022-05-28-07-36-01 截取视频 130 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_inclusion-non2022-04-02-07-37-16 截取视频 135 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50012_intrusion2022-01-12-01-32-51 截取视频 122 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50011_intrusion2024-03-21-12-54-38 截取视频 79 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50003_intrusion2022-10-25-08-32-16 截取视频 118 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50029_parking2024-04-23-16-51-24 截取视频 101 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50028_parking2020-11-08-14-37-19 截取视频 103 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50013_intrusion2021-10-29-10-21-22 截取视频 72 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50009_intrusion2021-10-18-08-06-23 截取视频 116 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50024_roadcone2020-07-31-15-39-25 截取视频 213 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50020_left2022-01-22-01-15-08 截取视频 70 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50006_intrusion2021-11-01-10-14-03 截取视频 70 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50014_intrusion2021-10-25-15-57-22 截取视频 94 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-07-18-06-19-58小雾霾0 截取视频 115 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50034_parking2020-11-08-15-36-26 截取视频 81 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2024-05-20-08-51-57 截取视频 101 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50023_intrusion2022-05-28-07-45-56 截取视频 110 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50010_intrusion2022-08-24-06-07-09 截取视频 126 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50015_intrusion2021-09-10-17-13-43 截取视频 120 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50014_intrusion2021-10-18-15-15-27 截取视频 100 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50017_intrusion2022-08-09-10-07-56 截取视频 135 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50013_intrusion2024-04-16-16-22-24 截取视频 106 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50032_intrusion2020-07-17-15-37-16 截取视频 103 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50003_intrusion2020-07-17-10-32-07 截取视频 98 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2024-05-28-17-12-19 截取视频 114 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50014_intrusion2022-08-10-09-02-36 截取视频 115 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50015_intrusion2021-09-10-17-03-16 截取视频 98 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-06-16-15-42-23 截取视频 114 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50008_intrusion2021-11-01-10-12-27 截取视频 95 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_parking2021-10-27-08-57-58 截取视频 135 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2023-05-29-15-58-05 截取视频 84 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2023-05-29-15-32-25 截取视频 115 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50014_intrusion2021-11-01-10-08-17 截取视频 96 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50045_intrusion2020-07-16-16-11-18 截取视频 73 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2024-01-10-16-43-52 截取视频 110 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/5intrusion2019-09-08-19-12-53 截取视频 114 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2021-11-02-13-48-58 截取视频 123 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50028_intrusion2020-07-16-09-30-44 截取视频 96 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_intrusion2020-07-17-10-00-23 截取视频 95 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50009_intrusion2021-10-18-07-56-43 截取视频 96 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50006_intrusion2021-10-30-08-09-13 截取视频 117 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2021-10-26-17-43-30 截取视频 132 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50022_intrusion2022-09-06-08-32-29 截取视频 101 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50008_intrusion2022-08-08-08-18-10 截取视频 103 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50003_intrusion2022-10-25-15-42-10 截取视频 132 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2021-10-26-17-34-50 截取视频 94 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50012_intrusion2024-04-27-09-07-21 截取视频 84 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-11-02-09-03-57 截取视频 132 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50030_parking2020-11-08-14-52-31 截取视频 135 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50022_intrusion2022-10-25-08-23-56 截取视频 87 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2024-01-11-09-47-55 截取视频 115 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50029_intrusion2022-08-09-10-03-59 截取视频 116 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2021-10-29-10-09-05 截取视频 67 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50032_parking2020-11-08-15-10-00 截取视频 115 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_intrusion2024-06-23-16-51-47 截取视频 128 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2023-11-20-14-34-12 截取视频 117 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2021-11-01-09-44-26 截取视频 124 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50013_intrusion2024-05-18-10-33-31 截取视频 85 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2021-11-01-07-53-16 截取视频 113 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50006_intrusion2021-10-29-10-09-30 截取视频 77 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2023-05-29-10-59-15 截取视频 87 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50012_intrusion2021-10-18-19-55-38 截取视频 119 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-10-31-14-12-01 截取视频 122 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50017_parking2022-01-12-23-46-40 截取视频 125 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50020_intrusion2020-11-04-15-29-29 截取视频 112 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50020_intrusion2022-08-11-09-37-28 截取视频 106 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50028_intrusion2022-10-27-08-10-35 截取视频 128 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_intrusion2022-03-02-14-03-36 截取视频 113 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2020-07-17-09-41-38 截取视频 126 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2021-10-18-07-40-31 截取视频 133 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_parking2022-06-09-01-42-37 截取视频 131 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50005_intrusion2021-10-25-14-19-43 截取视频 85 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50002_intrusion2021-11-01-09-38-46 截取视频 120 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-06-16-14-46-02 截取视频 110 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50020_intrusion2020-11-04-15-04-14 截取视频 134 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50028_parking2020-07-16-08-20-00 截取视频 99 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50124_inclusion-non2022-11-10-07-13-17 截取视频 103 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-11-02-08-37-25 截取视频 132 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2020-07-20-11-21-43 截取视频 121 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50015_intrusion2022-08-24-08-27-23 截取视频 102 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50001_intrusion2021-06-16-14-47-11 截取视频 108 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2024-02-06-17-45-54 截取视频 117 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50008_intrusion2021-10-29-10-20-41 截取视频 92 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50008_intrusion2021-10-29-10-17-22 截取视频 126 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50000_intrusion2020-07-20-15-29-21 截取视频 136 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50045_intrusion2020-07-16-16-02-12 截取视频 76 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50014_intrusion2021-10-25-15-01-29 截取视频 107 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50017_intrusion2022-08-08-08-22-10 截取视频 122 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50004_intrusion2022-03-02-14-19-04 截取视频 126 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50012_intrusion2021-11-01-10-08-20 截取视频 95 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/person/50003_intrusion2022-09-16-10-40-41 截取视频 104 0
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50007_parking2021-12-10-04-50-58 截取视频 135 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_parking2022-07-04-09-34-11（遗留物漏报） 截取视频 124 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-25-14-09-53 截取视频 88 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-07-18-06-32-03雾霾 截取视频 138 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-06-03-10-09-29 截取视频 128 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-29-08-10-36 截取视频 124 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-03-31-09-35-05 截取视频 129 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50014_parking2024-09-14-11-58-17 截取视频 88 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50012_intrusion2021-10-18-19-40-38 截取视频 134 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50005_parking2022-01-12-13-41-36 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-14-06-39-29 截取视频 130 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-02-20-13-21-24 截取视频 120 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-13-11-11-07 截取视频 103 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_parking2024-07-25-16-49-11 截取视频 137 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-15-06-39-12 截取视频 137 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50020_intrusion2020-08-01-14-57-53 截取视频 228 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2021-10-27-07-57-27 截取视频 135 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-13-07-04-30 截取视频 104 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-02-06-17-24-24 截取视频 116 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50014_parking2022-05-03-22-51-33 截取视频 134 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-06-28-06-25-25_右侧停车漏报 截取视频 118 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50021_parking2024-01-28-13-47-35 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50015_parking2021-10-20-08-29-19 截取视频 120 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2024-01-10-06-19-49 截取视频 128 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_intrusion2024-03-29-16-20-26 截取视频 117 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2024-07-23-16-15-34 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_parking2021-10-15-10-52-54 截取视频 132 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50023_intrusion2022-02-20-12-07-03 截取视频 129 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-03-13-14-41-44 截取视频 111 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-06-23-11-19-46-左车辆漏报 截取视频 113 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-12-19-00-48 截取视频 131 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50011_intrusion2024-05-18-09-56-54 截取视频 111 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2023-02-08-10-11-55无行人 截取视频 87 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-01-25-09-37-38 截取视频 115 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_inclusion-non2022-05-01-06-32-03 截取视频 123 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50005_parking2022-06-19-17-14-38 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50008_intrusion2024-01-15-16-04-13 截取视频 112 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-03-10-16-52-21 截取视频 118 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50003_parking2021-06-24-13-05-29_行人漏报 截取视频 112 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50003_parking2021-12-31-00-32-20 截取视频 132 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50021_intrusion2024-01-26-15-49-16 截取视频 88 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50003_parking2021-06-17-07-10-51 截取视频 119 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-06-21-15-35-35-jcloubao 截取视频 126 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2022-04-01-23-46-39 截取视频 137 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-10-24-07-25-11 截取视频 131 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-04-03-09-50-21 截取视频 112 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-04-11-02-40-48 截取视频 135 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-07-11-06-23-08 截取视频 138 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-06-24-11-34-53_左侧停车漏报 截取视频 112 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-25-14-57-57 截取视频 112 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2022-05-20-12-00-54 截取视频 133 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50003_parking2021-10-25-09-06-04 截取视频 116 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_parking2021-10-26-16-27-27 截取视频 114 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_intrusion2024-03-29-16-20-26 截取视频.mp4 87 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50036_parking2024-01-26-15-11-33 截取视频 106 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_intrusion2024-06-15-09-53-42 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_parking2021-10-26-15-00-55 截取视频 113 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50114_construction2021-10-20-11-33-46 截取视频 115 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50019_intrusion2022-06-15-00-18-14 截取视频 130 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-01-11-10-52-11 截取视频 131 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-24-16-48-54 截取视频 103 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50003_intrusion2022-01-01-10-27-44 截取视频 125 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50012_intrusion2022-01-18-00-22-37 截取视频 127 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2024-07-24-08-53-41 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50110_construction2021-10-20-11-48-21 截取视频 117 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-04-04-11-10-00 截取视频 123 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_intrusion2021-06-21-08-04-06 截取视频 107 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50002_parking2021-12-10-00-30-07 截取视频 133 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-12-14-52-45 截取视频 130 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50004_parking2022-04-21-20-21-03 截取视频 133 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50005_parking2022-03-13-23-21-05 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_parking2023-05-29-14-54-04 截取视频 106 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-02-15-10-38-25 截取视频 137 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50035_parking2024-01-26-13-34-35 截取视频 92 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50021_intrusion2022-04-13-21-55-14 截取视频 86 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-29-11-08-25 截取视频 111 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50035_parking2022-06-20-09-24-02 截取视频 116 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-04-17-16-15-32 截取视频 105 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2021-10-29-10-16-07 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50014_parking2022-01-26-16-34-14 截取视频 129 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50015_parking2021-10-22-16-25-27 截取视频 115 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-13-13-58-20 截取视频 107 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-02-03-15-53-51 截取视频 137 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_parking2022-06-20-08-26-18 截取视频 101 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50069_intrusion2020-08-01-14-55-37 截取视频 181 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-13-06-26-48 截取视频 136 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_intrusion2023-01-20-14-15-25无停车 截取视频 131 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50113_construction2021-10-20-11-26-11 截取视频 128 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_parking2021-07-18-06-25-16小雾霾1 截取视频 134 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50016_parking2021-10-29-16-59-30 截取视频 110 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50021_intrusion2024-04-21-16-44-38 截取视频 114 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_parking2023-05-29-13-57-12 截取视频 95 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-01-10-10-24-27 截取视频 124 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50015_parking2021-10-22-10-40-22 截取视频 132 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50020_parking2021-08-13-13-42-54 截取视频 90 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50013_parking2024-09-15-07-48-56 截取视频 107 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50001_intrusion2023-04-25-15-24-02 截取视频 113 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50000_parking2021-10-28-10-10-24 截取视频 116 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50010_intrusion2024-03-29-13-36-25 截取视频 135 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50023_intrusion2022-03-26-12-29-01 截取视频 135 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/parking/50012_intrusion2024-01-16-13-36-01 截取视频 134 1
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714897410 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714897796 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714965247 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714897062 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714896648 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714893393 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714895489 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714897964 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714899143 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714966451 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714893476 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714896882 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714900469 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714896728 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714894626 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714896561 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714965385 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/17148618120834EAFCDD676C54C16AA3_1714884776 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714899536 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714964700 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714898573 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714897975 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714898371 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714965862 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714900045 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714900322 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714893983 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714899930 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714899675 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714893036 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714897145 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714965554 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714861811089E16AD4633AA44717AE9_1714885999 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714944453072105FC888F361424F88B_1714964105 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/17148618120834EAFCDD676C54C16AA3_1714885868 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714895205 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714897821 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714900513 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/17148618120834EAFCDD676C54C16AA3_1714884923 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043754B1E3715F0BCD408F880_1714894852 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714861811089E16AD4633AA44717AE9_1714885978 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/17148618120834EAFCDD676C54C16AA3_1714884671 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858043970AB889323DAE9465F811_1714897621 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714898659 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714900269 100 2
+/data1/zhn/dataset/ClipClassData/miniData/miniImages/traffic/1714858044932FB03283644A0485E960_1714897691 100 2

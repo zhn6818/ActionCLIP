@@ -18,7 +18,7 @@ import cv2
 import numbers
 import math
 import torch
-from RandAugment import RandAugment
+from torchvision.transforms import RandAugment
 
 class GroupTransform(object):
     def __init__(self, transform):
@@ -115,7 +115,7 @@ class Action_DATASETS(data.Dataset):
         return classes_all.values.tolist()
     
     def _parse_list(self):
-        self.video_list = [VideoRecord(x.strip().split(' ')) for x in open(self.list_file)]
+        self.video_list = [VideoRecord(x.strip().rsplit(' ', 2)) for x in open(self.list_file)]
 
     def _sample_indices(self, record):
         if record.num_frames <= self.total_length:

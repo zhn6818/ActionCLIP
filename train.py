@@ -3,6 +3,7 @@
 # Mengmeng Wang, Jiazheng Xing, Yong Liu
 
 import os
+os.environ["WANDB_MODE"] = "disabled"
 import torch.nn as nn
 from datasets import Action_DATASETS
 from torch.utils.data import DataLoader
@@ -47,7 +48,7 @@ def main():
     parser.add_argument('--log_time', default='')
     args = parser.parse_args()
     with open(args.config, 'r') as f:
-        config = yaml.load(f)
+        config = yaml.load(f, Loader=yaml.FullLoader)
     working_dir = os.path.join('./exp', config['network']['type'], config['network']['arch'], config['data']['dataset'], args.log_time)
     wandb.init(project=config['network']['type'],name='{}_{}_{}_{}'.format(args.log_time,config['network']['type'], config['network']['arch'], config['data']['dataset']))
     print('-' * 80)
@@ -79,7 +80,7 @@ def main():
 
     print('train transforms: {}'.format(transform_train.transforms))
     print('val transforms: {}'.format(transform_val.transforms))
-
+ 
     fusion_model = visual_prompt(config.network.sim_header,clip_state_dict,config.data.num_segments)
     model_text = TextCLIP(model)
     model_image = ImageCLIP(model)
